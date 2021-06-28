@@ -274,14 +274,24 @@ default_ans = {
         {
             "s": "A revolução francesa",
             "p": " por conta",
-            "o": " da reflexão da luz do sol sobre ela."
+            "o": " da insatisfação da burgesia."
+        },
+        {
+            "s": "O arco íris",
+            "p": " é criado por conta",
+            "o": " da iluminação do sol sobre a umidade suspensa."
         },
     ],
     "Como": [
         {
-            "s": "O primeiro computador",
-            "p": " foi criado",
-            "o": " nos Estados Unidos."
+            "s": "Os dados no computador",
+            "p": " são reprensentados",
+            "o": " por 0's e 1's."
+        },
+        {
+            "s": "A tela do computador",
+            "p": " é dividida",
+            "o": " em pixels."
         },
     ]
 }
